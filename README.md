@@ -95,7 +95,7 @@
         target="_blank"
         rel="noreferrer"
       >
-        <img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg"
+        <img src="https://raw.githubusercontent.com/AndersDJohnson/AndersDJohnson/master/images/react-query.svg"
           alt="react-query"
           width="40"
           height="40"
